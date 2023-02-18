@@ -1,0 +1,145 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Matthew Wainwright
+Matthew Wainwright
+Student
+
+Show Contacts
+
+Email
+justyourcommonbrit@gmail.com
+
+Birthday
+June 08, 1989
+
+Location
+Widnes, Cheshire, England
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am a student currently working towards a Bsc in Computing and ICT within the Open University. I enjoy problem solving and am currently employed within the Logistics industry as a systems clerk.
+
+My passion for computing is high even outside of my degree and work, from following companies and reading about new products and innovations within the field, to studying additional courses to further my knowledge and skillset through the use of websites such as Udemy.
+
+
+## service
+
+What i'm Learning
+
+alt = design icon
+Java Programming
+Although I still consider myself to be a beginner, I am slowly developing my skills and practices of object orientated programming.
+
+alt = python icon
+Python Programming
+Ive more experience with python than any other languages, through using it within my studies aswell as my own personal projects.
+
+
+## Courses
+
+Courses Completed
+
+alt = Udemy - Java Programming Masterclass
+Udemy - Java Programming Masterclass
+Course consists of 35 sections, 544 lectures, 103h 19m total length.
+
+
+
+alt = Udemy - Java Development Course
+Udemy - Java Development Course
+Course consists of 41 sections, 357 lectures, 66h 35m total length.
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+The Open University
+2019 - Present
+BSC Honours Computing and ICT
+
+Cronton Sixth Form College
+2005 — 2007
+A levels: Computing, Art
+
+Fairfield High School
+2000 — 2005
+Achieved 7 GCSE's at A-C Grades
+
+Experience
+
+Screwfix Wincanton
+Aug 2022 — Present
+Current role of Stock & Systems clerk, various tasks in role including stock management, adjustment monitoring, system data entry & upkeep.
+
+Asda
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Web designer
+2010 — 2013
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+My skills
+
+Python
+%
+Java
+%
+Html
+%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+
+# blog
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
