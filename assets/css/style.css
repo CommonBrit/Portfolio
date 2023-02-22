@@ -1239,6 +1239,8 @@ textarea.form-input::-webkit-resizer { display: none; }
  * responsive larger than 450px screen
  */
 
+/* needs fixing between here ->
+
 @media (min-width: 450px) {
 
   /**
@@ -1361,7 +1363,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-
+<-- and here */
 
 
 
