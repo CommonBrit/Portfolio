@@ -1239,7 +1239,7 @@ textarea.form-input::-webkit-resizer { display: none; }
  * responsive smaller than 450px screen
  */
 
-@media (max-width: 450px) {
+@media (max-width: 449px) {
 
   /**
    * client
