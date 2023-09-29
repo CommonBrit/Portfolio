@@ -747,12 +747,15 @@ main {
   overscroll-behavior-inline: contain;
   scroll-snap-type: inline mandatory;
   scroll-padding-inline: 25px;
+  filter: grayscale(1);
 }
 
 .clients-item {
   min-width: 50%;
   scroll-snap-align: start;
 }
+
+.clients-list:hover { filter: grayscale(0); }
 
 .clients-item img {
   width: 50%;
@@ -1239,8 +1242,6 @@ textarea.form-input::-webkit-resizer { display: none; }
  * responsive larger than 450px screen
  */
 
-/* needs fixing between here ->
-
 @media (min-width: 450px) {
 
   /**
@@ -1363,7 +1364,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 }
 
-<-- and here */
+
 
 
 
