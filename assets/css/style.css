@@ -1241,7 +1241,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 /* needs fixing between here ->
 
-@media (min-width: 450px) {
+@media (max-width: 450px) {
 
   /**
    * client
